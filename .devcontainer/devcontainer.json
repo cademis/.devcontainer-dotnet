@@ -8,8 +8,8 @@
   "customizations": {
     "vscode": {
       "extensions": [
-        "GitHub.copilot",
-        "GitHub.copilot-chat",
+        // "GitHub.copilot",
+        // "GitHub.copilot-chat",
         "humao.rest-client",
         "ms-dotnettools.csdevkit",
         "ms-azuretools.vscode-docker"
@@ -26,7 +26,7 @@
   // "customizations": {},
 
   // Use 'forwardPorts' to make a list of ports inside the container available locally.
-   "forwardPorts": [5432]
+  "forwardPorts": [5432]
   // "forwardPorts": [3000, 3001, 5265, 5432]
   // "portsAttributes": {
   //		"5001": {
